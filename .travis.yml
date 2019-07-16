@@ -1,3 +1,6 @@
+# Tell Travis to use xenial distro
+dist: xenial
+
 # Tell Travis which branches to build.
 branches:
   except:
